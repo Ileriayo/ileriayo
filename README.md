@@ -3,7 +3,7 @@
 --->  
 
 <h1 align='center'> 👋 </h1>
-<img src="./header.gif">
+<img src="./header.gif"/>
 <p align='center'> (Open for Hiring)</p>
 
 <p align="center">
