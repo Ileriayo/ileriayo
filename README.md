@@ -29,9 +29,9 @@
   <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/vagrant%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ansible%20-%231572B6.svg?&style=for-the-badge&logo=ansible&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/jenkins%20-%231572B6.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/azure%20-%231572B6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ansible%20-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <hr>
