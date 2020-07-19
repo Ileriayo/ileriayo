@@ -3,7 +3,7 @@
 --->  
 
 <h1 align="center"> 👋 </h1>
-![header](ileriayo/ileriayo/header.gif)
+![header](ileriayo/ileriayo/images/header.gif)
 <p align="center"> (Open for Hiring)</p>
 
 <p align="center">
